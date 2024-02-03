@@ -1,0 +1,11 @@
+* Cuando voy a subir por primera ve< el proyecto
+
+> git init
+> git remote add origin https://github.com/pedroaleman/esimagenpersona.git
+> git branch -M main
+> git push -u origin main
+
+* Para esta subiendo cambios, ya solo es:
+> git add .
+> git commit -m "first commit"
+> git push -u origin main
